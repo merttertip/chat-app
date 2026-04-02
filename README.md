@@ -45,11 +45,7 @@ Through this project, I gained experience in:
 
 - User interaction
 
-<hr>
-
-![](Screen.gif)
-
-<hr>
+---
 
 # 💬 Chat App
 
@@ -94,3 +90,7 @@ Bu proje sayesinde:
 - Kullanıcı etkileşimi
 
 konularında deneyim kazandım.
+
+---
+
+![](Screen.gif)
